@@ -8,3 +8,6 @@ psutil==5.8.0
 pygame==2.1.2
 tqdm==4.66.4
 wandb==0.12.7
+torch==1.13.1
+torchvision==0.14.1
+numpy==1.26.4
